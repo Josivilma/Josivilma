@@ -7,7 +7,7 @@ Web Develop
 I am a web developer with a technical background in IT. My experience combines a strong foundation in programming with a passion for creating user-friendly and efficient web solutions
 
 * 🌍  I'm based in Brasil
-* ✉️  You can contact me at [Josivilma01@gmail.com](mailto:Josivilma01@gmail.com)
+* ✉️  You can contact me at [josivilma.kelly1@gmail.com](mailto:josivilma.kelly1@gmail.com)
 
 ### Skills
 
